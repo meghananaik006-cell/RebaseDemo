@@ -1,0 +1,3 @@
+Hello git
+this is my first git file
+Learning git bash
